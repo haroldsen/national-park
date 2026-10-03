@@ -1,22 +1,24 @@
-# WDD 231 personal project
+# National Parks Explorer
 
-## Description
+View the [site!](https://dapper-crisp-67a845.netlify.app/)
 
-Use this as a starting point to complete the WDD 231 personal activity. We will be pulling data from the National Parks API and building a website for the park of your choice with it.
+A dynamic front-end web application that fetches live data from the National Park Service (NPS) API to help users discover and explore U.S. National Parks.
 
-## Prerequisites
+Developed in **2025** as part of a Front-End Web Development course, this project demonstrates API integration, asynchronous JavaScript, dynamic DOM manipulation, and responsive UI design.
 
-- You must have Node installed. visit https://byui-cit.github.io/learning-modules/modules/general/node-installation/ for instructions
+---
 
-## Setup
+## ✨ Features
 
-- `npm install`
-- `npm run start` starts up a local server and updates on any JS or CSS/SCSS changes.
+* **Live NPS Data:** Retrieves real-time park details, photos, activities, and operating hours directly from the official National Park Service API.
+* **Interactive Browsing:** Search and filter parks by state, topic, or activity.
+* **Responsive Layout:** Optimized for desktop, tablet, and mobile viewing.
+* **Dynamic Content Rendering:** Fast UI updates using modern JavaScript DOM manipulation without full page reloads.
 
-## Other commands
+---
 
-- `npm run build` to build final files when you are ready to turn in.
+## 🛠️ Tech Stack
 
-## My Link
-
-https://dapper-crisp-67a845.netlify.app/
+* **HTML5** & **CSS3** (Flexbox/Grid layout)
+* **JavaScript (ES6+)** — `fetch` API, async/await, REST API handling
+* **NPS API** — [National Park Service Developer API](https://www.nps.gov/subjects/developer/api-documentation.htm)
